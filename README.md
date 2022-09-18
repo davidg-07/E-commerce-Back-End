@@ -6,17 +6,9 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![DB Setup and Start]()
+![GET, CREATE, UPDATE, and DELETE](./assests/Untitled_%20Sep%2017%2C%202022%205_19%20PM.gif)
 
-![GET All]()
-
-![GET All by ID]()
-
-![POST PUT DELETE Products and Tags]()
-
-![POST PUT DELETE Categories]()
-  
-🎥 The full movie file showing functionality of the application can be found in the animations directory
+![DELETE final](./assests/Untitled_%20Sep%2017%2C%202022%205_22%20PM.gif)
   
 ## User Story
   
@@ -87,7 +79,7 @@ Enter PW when promted
 No testing is currently set up
 
 ## Contributing
-:octocat: [David Galvez](https://github.com/davidg-07)
+[David Galvez](https://github.com/davidg-07)
 
 ## Questions
 ✉️ Contact me with any questions: [email](david.dmg17@gmail.com.com)
